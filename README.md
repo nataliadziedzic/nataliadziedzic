@@ -13,3 +13,5 @@ To make the above sentence disappear.
 - 🌱 I’m currently learning GatsbyJS
 - 📫 How to reach me: **nd.nataliadziedzic@gmail.com**
 - ⚡ Fun fact: once I thought that coding is some kind of black magic, not understandable for normal people like me. But then my friend told me he want to learn it, so I asked him "do you know anything about it?", he said: "Nah, but I'll learn", and I don't know why, but it hit me hard with its simplicity. This is why I started this journey. I saw another challenge in it and I like to challenge myself.
+
+<img src="https://github-readme-stats.vercel.app/api?username=nataliadziedzic&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">

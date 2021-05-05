@@ -1,5 +1,5 @@
-![](https://raw.githubusercontent.com/nataliadziedzic/nataliadziedzic/main/Intro.jpg)
 # Hi there 👋
+
 I'm Natalia, but obviously you can tell that from my username :mag_right:
 </br>
 ---

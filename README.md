@@ -5,7 +5,7 @@ I'm Natalia, but obviously you can tell that from my username :mag_right:
 ---
 Currently I'm working as a **Junior Frontend Developer with React**, but soon I will be looking for another chance for development and permanent job, so if my projects seems interesting to you **don't hesitate to contact me!**
 </br>
----
+</br>
 **New Projects Coming Soon**
 </br>
 

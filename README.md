@@ -1,9 +1,5 @@
 # Hi there 👋
-
-I'm Natalia, but obviously you can tell that from my username :mag_right:
-</br>
----
-Currently I'm working as a **Junior Frontend Developer with React**, but soon I will be looking for another chance for development and permanent job, so if my projects seems interesting to you **don't hesitate to contact me!**
+I'm Natalia and currently I'm working as a **Junior Frontend Developer with React**, but soon I will be looking for another chance for development and permanent job, so if my projects seems interesting to you **don't hesitate to contact me!**
 </br>
 </br>
 **New Projects Coming Soon**
@@ -11,7 +7,7 @@ Currently I'm working as a **Junior Frontend Developer with React**, but soon I 
 
 ## Summary
 - :heavy_check_mark: **React, Gatsby, REST API, GraphQL, Redux, Redux-Saga, Sass, styled-components, Material-UI**
-- 🎓 Currently I’m learning TypeScript and Angular
+- 🎓 Currently I’m learning TypeScript
 - ♥️ Hard workouts
 - 📫 How to reach me: **nd.nataliadziedzic@gmail.com**
 

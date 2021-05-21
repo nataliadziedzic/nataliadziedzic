@@ -7,7 +7,7 @@ I'm Natalia and currently I'm working as a **Junior Frontend Developer with Reac
 
 ## Summary
 - :heavy_check_mark: **React, Gatsby, REST API, GraphQL, Redux, Redux-Saga, Sass, styled-components, Material-UI**
-- 🎓 Currently I’m learning TypeScript
+- 🎓 Currently I’m learning TypeScript, Node.js, Express and MongoDB
 - ♥️ Hard workouts
 - 📫 How to reach me: **nd.nataliadziedzic@gmail.com**
 
